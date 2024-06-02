@@ -1,5 +1,5 @@
 # shubhamkumarproject
-#CodSoft internship task-1 
+#CodSoft internship javaproject task-2 
 #javaproject
 CodSoft
 
